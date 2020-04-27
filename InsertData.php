@@ -16,10 +16,10 @@
 <h2>Enter data into employee table:</h2>
 <ul>
     <form name="InsertData" action="InsertData.php" method="POST" >
-<li><strong>Employee ID:</strong></li>  <li><input type="text" name="empid" /></li>
+<li><strong>commodity ID:</strong></li>  <li><input type="text" name="empid" /></li>
 <li><strong>Full name:</strong></li>    <li><input type="text" name="empname" /></li>
-<li><strong>Email:</strong></li><li>    <input type="text" name="empemail" /></li>
-<li><strong>Phone number:</strong></li>    <li><input type="text" name="empphone" /></li>
+<li><strong>Barcode:</strong></li><li>    <input type="text" name="empemail" /></li>
+<li><strong>Madein:</strong></li>    <li><input type="text" name="empphone" /></li>
 <li><input type="submit" value="INSERT"></li>
 </form>
 </ul>
