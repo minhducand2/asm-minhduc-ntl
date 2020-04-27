@@ -11,7 +11,7 @@
 </form>
 <ul>
     <form name="DeleteData" action="DeleteData.php" method="POST" >
-<li><strong>Employee ID:</strong></li>  <li><input type="text" name="empid" /></li>
+<li><strong>Commodity ID:</strong></li>  <li><input type="text" name="empid" /></li>
 <li><input type="submit" value="DELETE" /></li>
 </form>
 </ul>
