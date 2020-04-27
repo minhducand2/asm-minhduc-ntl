@@ -30,7 +30,7 @@
  			margin:0 auto;
  		}
  	</style>
- <h1>ASM APP ATN</h1>
+ <h1>DEMO OF ANT'S APPLICATION</h1>
  
  <div id="content">
  	<div class="picture">
